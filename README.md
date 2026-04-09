@@ -115,8 +115,8 @@ Objective – Provide a comprehensive view of all key metrics (Total Sales, Aver
 Chart Type – Matrix Card
 
 Final Output 
+<img width="1920" height="1080" alt="{F388AD54-F7BF-4DC1-8819-96D129BDCA2C}" src="https://github.com/user-attachments/assets/7e30a032-172d-4968-bc4c-d295ef46e08c" />
 
-<img width="1920" height="1080" alt="{4790FB5D-0093-43E1-B313-7D17F5ACD9D2}" src="https://github.com/user-attachments/assets/7bfff474-04b9-4a39-8ec5-09be9bb96cb7" />
 
 
 
